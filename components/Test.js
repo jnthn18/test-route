@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Test = (props) => (
   <div style={{ margin: '0 auto' }} >
-    <h1>Hello World</h1>
+    <h1>THIS IS SPARTA!!</h1>
   </div>
 )
 
